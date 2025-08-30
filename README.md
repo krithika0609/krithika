@@ -1,0 +1,2 @@
+# krithika
+QTSM PROGRAM CODE
